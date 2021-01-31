@@ -91,7 +91,7 @@
 
             <!--PIE DE PAGINA-->
             <footer id="footer">
-                <p>Desarrollado por Bryan Calles &copy; <?= date('Y') ?></p>
+                <p>Desarrollado por Bryan Alexander Calles &copy; <?= date('Y') ?></p>
             </footer>
 
         </div>
