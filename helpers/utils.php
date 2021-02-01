@@ -10,7 +10,7 @@ class Utils{
         }
         return $name;
     }
-    
+    //para definir permisos de administrador en vistas
     public static function isAdmin(){
         if(!isset($_SESSION['admin'])){
             header('location:'.base_url);
